@@ -2,7 +2,7 @@
 📌 Project Overview
 
 The Retail Analytics Dashboard is an end-to-end Business Intelligence project that simulates a real-world retail environment using Python, MySQL, and Power BI. The project demonstrates the complete data pipeline—from generating sales transactions and updating inventory in a MySQL database to building an interactive Power BI dashboard for business decision-making.
-The dashboard provides actionable insights into sales performance, product analytics, customer behavior, inventory management, and time-based trends.
+The dashboard provides actionable insights into sales performance, product analytics, customer behavior, inventory management, and time-based trends. 
 
 🚀 Project Objectives
 Simulate retail sales data using Python
@@ -35,7 +35,7 @@ Relationships between these tables enable comprehensive retail analysis and repo
 ⚙️ Features
 Sales Simulation
 
-Randomly generates retail sales
+Randomly generates retail sales with 15 minutes interval
 Supports multiple payment methods
 Calculates discounts
 Computes total sales amount
