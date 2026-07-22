@@ -1,4 +1,5 @@
 🛍️ Retail Analytics Dashboard
+
 📌 Project Overview
 
 The Retail Analytics Dashboard is an end-to-end Business Intelligence project that simulates a real-world retail environment using Python, MySQL, and Power BI. The project demonstrates the complete data pipeline—from generating sales transactions and updating inventory in a MySQL database to building an interactive Power BI dashboard for business decision-making.
