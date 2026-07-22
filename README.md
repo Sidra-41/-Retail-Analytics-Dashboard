@@ -8,20 +8,30 @@ The dashboard provides actionable insights into sales performance, product analy
 🚀 Project Objectives
 
   Simulate retail sales data using Python
+  
   Store and manage transactional data in MySQL
+  
   Automatically update inventory after each sale
+  
   Build SQL views for simplified reporting
+  
   Develop an interactive Power BI dashboard
+  
   Demonstrate real-world retail business analytics
 
 🛠️ Tech Stack
+
 Python
+
 Random
+
 Pandas
+
 MySQL Connector
+
 MySQL
+
 Power BI
-SQL
 
 📂 Database Structure
 
