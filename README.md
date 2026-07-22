@@ -6,12 +6,13 @@ The Retail Analytics Dashboard is an end-to-end Business Intelligence project th
 The dashboard provides actionable insights into sales performance, product analytics, customer behavior, inventory management, and time-based trends. 
 
 🚀 Project Objectives
-Simulate retail sales data using Python
-Store and manage transactional data in MySQL
-Automatically update inventory after each sale
-Build SQL views for simplified reporting
-Develop an interactive Power BI dashboard
-Demonstrate real-world retail business analytics
+
+  Simulate retail sales data using Python
+  Store and manage transactional data in MySQL
+  Automatically update inventory after each sale
+  Build SQL views for simplified reporting
+  Develop an interactive Power BI dashboard
+  Demonstrate real-world retail business analytics
 
 🛠️ Tech Stack
 Python
