@@ -9,7 +9,7 @@ fake = Faker()
 connection = mysql.connector.connect(
     host="localhost",
     user="root",
-    password="$idr@mysql41",
+    password="Your_password",
     database="retail_analytics"
 )
 
